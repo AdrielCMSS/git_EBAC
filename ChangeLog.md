@@ -7,3 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2024-02-20
 ### Added
 - ChangeLog.md 
+
+## [0.0.2] - 2024-02-28
+### Added
+- OlaMundo.txt
+- OlaGit.txt
